@@ -1,0 +1,23 @@
+### FlightFlow Analysis ###
+Data Loaded & Cleaned: 250 flights processed.
+
+Most Reliable Airlines (Lowest Avg Delay):
+               Avg_Delay  Total_Flights
+Airline                                
+Qatar Airways      38.88             24
+Emirates           44.04             25
+IndiGo             48.28             25
+
+Least Reliable Airlines (Highest Avg Delay):
+                 Avg_Delay  Total_Flights
+Airline                                  
+Akasa Air            58.12             24
+Lufthansa            62.95             19
+British Airways      71.11             28
+
+Worst Days to Fly (Highest Avg Delay):
+Day_Name
+Friday      65.28
+Tuesday     57.11
+Saturday    56.27
+Name: DepartureDelay, dtype: float64
