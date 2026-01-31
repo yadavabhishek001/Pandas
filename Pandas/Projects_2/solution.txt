@@ -1,0 +1,31 @@
+### Virat Kohli Career Analysis ###
+Error: opponents.csv not found.
+Warning: Opponent data missing, proceeding with match data only.
+
+Total Career Runs: 7804
+Average Runs Per Match: 36.3
+
+Runs Against Each Opponent (Top 3):
+opponent
+KKR    1071
+MI      949
+RR      926
+Name: runs, dtype: int64
+
+Number of 50s: 60
+Number of Centuries: 8
+
+Career Run Progression (First 5 matches):
+  match_date  runs  carrer_runs
+0 2011-04-09    23           23
+1 2011-04-12    12           35
+2 2011-04-14    71          106
+3 2011-04-19    35          141
+4 2011-04-22    12          153
+
+Number of Consistent Matches (30+ runs):
+115
+Number of Not Out Innings:
+40
+
+Best Venue: Chinnaswamy Stadium with 3227 runs
